@@ -3,8 +3,8 @@
 `cargo build`
 ### Run Local Chain
 `./target/debug/node-template --dev --tmp`
-### Build Chain Spec
-`./target/debug/node-template build-spec`
+### Build a raw Chain Spec
+`./target/debug/node-template build-spec --raw`
 
 # Adz Demoe
 ### Using Nix
